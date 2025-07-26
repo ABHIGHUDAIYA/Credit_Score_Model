@@ -138,6 +138,5 @@ CreditScoreModel/
 ## 👨‍💻 Author
 
 Abhi Ghudaiya
-
 B.Tech CSE (Artificial Intelligence Specialization)
 
